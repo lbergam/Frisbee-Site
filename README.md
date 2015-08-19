@@ -1,2 +1,0 @@
-# Frisbee-Site
-Frisbee Website
